@@ -1,0 +1,1 @@
+This is a simple text-based application for tasks management.
